@@ -12,8 +12,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrtARM/
-  REPO_BRANCH: mt7986
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x
+  REPO_BRANCH: master
 
 on:
   workflow_dispatch:
